@@ -15,6 +15,15 @@
         "link": "https://github.com/alexandergshaw/taskflow-pro",
         "projectUrl": "https://github.com/Cowitt01/Assignment1",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
+    },
+
+    {
+        "title": "Assignment 2",
+        "description": "Metroficator",
+        "tech": ["Javascript"],
+        "link": "https://github.com/alexandergshaw/taskflow-pro",
+        "projectUrl": "https://github.com/Cowitt01/Assignment2",
+        "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     } 
     
 
