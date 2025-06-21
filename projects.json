@@ -3,7 +3,7 @@
         "title": "Personal Project Website",
         "description": "Personal Project Website for Cory Witt",
         "tech": ["Javascript"],
-        "link": "https://github.com/alexandergshaw/taskflow-pro",
+        "link": "https://github.com/Cowitt01/taskflow-pro",
         "projectUrl": "https://github.com/Cowitt01/javascript-portfolio-site",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     }, 
@@ -12,16 +12,16 @@
         "title": "Assignment 1",
         "description": "Metroficator",
         "tech": ["Javascript"],
-        "link": "https://github.com/alexandergshaw/taskflow-pro",
+        "link": "https://github.com/Cowitt01/taskflow-pro",
         "projectUrl": "https://github.com/Cowitt01/Assignment1",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     },
 
     {
         "title": "Assignment 2",
-        "description": "Metroficator",
+        "description": "Rocket Weight Calculator",
         "tech": ["Javascript"],
-        "link": "https://github.com/alexandergshaw/taskflow-pro",
+        "link": "https://github.com/Cowitt01/taskflow-pro",
         "projectUrl": "https://github.com/Cowitt01/Assignment2",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     } 
