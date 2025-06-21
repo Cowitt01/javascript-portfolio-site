@@ -12,7 +12,7 @@
         "title": "Assignment 1",
         "description": "Metroficator",
         "tech": ["Javascript"],
-        "link": "https://github.com/Cowitt01/taskflow-pro",
+        "link": "https://cowitt01.github.io/Assignment1/",
         "projectUrl": "https://github.com/Cowitt01/Assignment1",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     },
@@ -21,7 +21,7 @@
         "title": "Assignment 2",
         "description": "Rocket Weight Calculator",
         "tech": ["Javascript"],
-        "link": "https://github.com/Cowitt01/taskflow-pro",
+        "link": "https://cowitt01.github.io/Assignment2/",
         "projectUrl": "https://github.com/Cowitt01/Assignment2",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     } 
