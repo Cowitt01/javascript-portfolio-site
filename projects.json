@@ -50,5 +50,13 @@
         "link": "https://cowitt01.github.io/Assignment5/",
         "projectUrl": "https://github.com/Cowitt01/Assignment5",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
+    },
+        {
+        "title": "Assignment 6",
+        "description": "The Metroficator v2",
+        "tech": ["Javascript"],
+        "link": "https://cowitt01.github.io/Assignment6/",
+        "projectUrl": "https://github.com/Cowitt01/Assignment6",
+        "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     }
 ]
