@@ -66,5 +66,13 @@
         "link": "https://cowitt01.github.io/Assignment7/",
         "projectUrl": "https://github.com/Cowitt01/Assignment7",
         "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
+    },
+    {
+        "title": "Assignment 8",
+        "description": "Date-a-Lator",
+        "tech": ["Javascript"],
+        "link": "https://cowitt01.github.io/Assignment8/",
+        "projectUrl": "https://github.com/Cowitt01/Assignment8",
+        "image": "https://placehold.co/320x180/4f8cff/fff?text=TaskFlow+Pro"
     }
 ]
